@@ -81,7 +81,6 @@ The analysis provides valuable insights to help improve product focus, customer 
 ### **How to Use**
 1. Clone the repository.
 2. Access the Jupyter notebooks for data cleaning and analysis.
-3. Open the Tableau file to view and interact with the dashboard.
 
 ---
 
