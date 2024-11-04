@@ -7,7 +7,7 @@ This project analyzes a retail store's sales data to uncover actionable insights
 - Hassan Mohamed Ahmed 
 - Mahmoud Nasser
 - Abdelrahman Mustafa Mossad
--Salah Gamal Abdelkhabir
+- Salah Gamal Abdelkhabir
 - Youssef Ayman
 
 ---
