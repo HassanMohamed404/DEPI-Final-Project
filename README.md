@@ -85,9 +85,4 @@ The analysis provides valuable insights to help improve product focus, customer 
 
 ---
 
-### **License**
-This project is licensed for educational purposes.
-
----
-
 Thank you for exploring our Store Sales Analysis Project! We hope this provides helpful insights into retail data analytics.
