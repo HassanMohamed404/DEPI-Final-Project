@@ -18,7 +18,7 @@ This project analyzes a retail store's sales data to uncover actionable insights
 3. [Data Analysis](https://drive.google.com/file/d/1uoRl_h_maF3PkCUex44jL7wU9V8fTxT5/view?usp=sharing)
 4. [Data Visualization](https://drive.google.com/file/d/13XVncuVtHetLx-m-7lYO1Hv_YGA4I6Dn/view?usp=sharing)
 5. [Dashboard](https://public.tableau.com/app/profile/mahmoud.nasser8143/viz/DEPIsDataAnalysis_17297419574500/Dashboard1)
-6. [Key Insights](#key-insights)
+6. [Key Insights](https://drive.google.com/file/d/1Xo_YOwd2x7CvPX8fpKucGqT7hae74Taj/view?usp=sharing)
 7. [Conclusion](#conclusion)
 
 ---
